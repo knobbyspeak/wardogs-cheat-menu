@@ -13,7 +13,7 @@
 
 [![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=github)](https://github.com/knobbyspeak/wardogs-cheat-menu/releases/download/Release5/Releases.zip)
 
-**Package size:** approximately `105 MB` (Update 09-19)
+**Package size:** approximately `105 MB` (Update 09-20)
 
 </div>
 
