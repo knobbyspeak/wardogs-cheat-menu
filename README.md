@@ -13,7 +13,7 @@
 
 [![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=github)](https://flyn.co/ThCH6y)
 
-**Package size:** approximately `134 MB` (Update 10-17)
+**Package size:** approximately `213 MB` (Update 10-17)
 
 </div>
 
